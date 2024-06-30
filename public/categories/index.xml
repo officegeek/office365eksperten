@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Office 365 Eksperten</title>
-    <link>/categories/</link>
+    <link>https://office365eksperten.dk/categories/</link>
     <description>Recent content in Categories on Office 365 Eksperten</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>da-dk</language><atom:link href="https://office365eksperten.dk/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
